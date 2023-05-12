@@ -1,0 +1,14 @@
+.profile-card {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.image-icon {
+  height: 120px;
+}
+.profile-heading {
+  font-size: 18px;
+}
+.profile-paragraph {
+  color: #616e7c;
+}
